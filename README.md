@@ -3,7 +3,7 @@
 
 A touchless calculator powered by **Python**, **MediaPipe**, and **OpenCV** — interact using just your hand gestures!
 
-> https://user-images.githubusercontent.com/demo.gif *(Optional animated preview)*
+
 
 ---
 
@@ -95,6 +95,4 @@ MIT License. Free to use and modify.
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 💻 [Portfolio](https://yourportfolio.com)
-- 🌟 [More Projects](https://github.com/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/veera-raghavendra-godavarthi-a59641315/)
